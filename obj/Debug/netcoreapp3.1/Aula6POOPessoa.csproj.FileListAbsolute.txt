@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula6POOPessoa\bin\Debug\netcoreapp3.1\Aula6POOPessoa.exe
+C:\Users\Senai132\Desktop\Aula6POOPessoa\bin\Debug\netcoreapp3.1\Aula6POOPessoa.deps.json
+C:\Users\Senai132\Desktop\Aula6POOPessoa\bin\Debug\netcoreapp3.1\Aula6POOPessoa.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula6POOPessoa\bin\Debug\netcoreapp3.1\Aula6POOPessoa.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula6POOPessoa\bin\Debug\netcoreapp3.1\Aula6POOPessoa.dll
+C:\Users\Senai132\Desktop\Aula6POOPessoa\bin\Debug\netcoreapp3.1\Aula6POOPessoa.pdb
+C:\Users\Senai132\Desktop\Aula6POOPessoa\obj\Debug\netcoreapp3.1\Aula6POOPessoa.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula6POOPessoa\obj\Debug\netcoreapp3.1\Aula6POOPessoa.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula6POOPessoa\obj\Debug\netcoreapp3.1\Aula6POOPessoa.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula6POOPessoa\obj\Debug\netcoreapp3.1\Aula6POOPessoa.dll
+C:\Users\Senai132\Desktop\Aula6POOPessoa\obj\Debug\netcoreapp3.1\Aula6POOPessoa.pdb
